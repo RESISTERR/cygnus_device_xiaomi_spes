@@ -410,6 +410,10 @@ PRODUCT_PACKAGES += \
     SettingsProvider2201117TI \
     SettingsProvider2201117TY
 
+# Parts
+PRODUCT_PACKAGES += \
+    XiaomiParts
+
 # Perf
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/perf/msm_irqbalance.conf:$(TARGET_COPY_OUT_VENDOR)/etc/msm_irqbalance.conf \
