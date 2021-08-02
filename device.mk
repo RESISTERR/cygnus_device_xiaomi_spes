@@ -414,6 +414,7 @@ PRODUCT_SYSTEM_PROPERTIES += \
 # Overlays
 PRODUCT_PACKAGES += \
     AOSPASpesFrameworksOverlay \
+    NotchBarKiller \
     SpesCarrierConfigOverlay \
     SpesFrameworksOverlay \
     SpesSettingsOverlay \
